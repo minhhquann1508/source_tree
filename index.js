@@ -1,2 +1,1 @@
-console.log(123);
-console.log(789);
+var bc50 = 'lỗi'
